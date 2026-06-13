@@ -5,15 +5,18 @@
 ![UX/UI](https://img.shields.io/badge/Focus-UX%2FUI-purple)
 
 Premium hospitality website concept focused on luxury branding, user experience, accessibility, and mobile-first design.
+
 ## 📸 Screenshot
 
 ![Maison Moreau Homepage](screenshot-homepage.png)
 
 ---
 
-## 🚀 Live Demo
+## 🌐 Project Links
 
-[View Live Demo](https://premiumuxui.lovable.app)
+🔗 **Live Demo:** https://premiumuxui.lovable.app
+
+📂 **Repository:** https://github.com/Sahba-mnj/maison-moreau-case-study
 
 ---
 
@@ -32,17 +35,22 @@ The project focuses on:
 
 ---
 
+## 📱 Responsive Experience
+
+The project was designed with a mobile-first approach and optimized for desktop, tablet, and mobile devices to ensure a consistent user experience across screen sizes.
+
+---
+
 ## 🛠 Tools Used
 
 * HTML
 * CSS
 * JavaScript
-* Responsive Design Principles
 * UX/UI Design
+* Responsive Design Principles
 * Mobile-First Design
 * Accessibility Best Practices
 * Lovable
-
 
 ---
 
@@ -68,13 +76,13 @@ The project focuses on:
 
 ---
 
-## Future Improvements
+## 🔮 Future Improvements
 
-- Online reservation functionality
-- Interactive menu experience
-- Customer reviews section
-- Multi-language support
-- Performance optimization
+* Online reservation functionality
+* Interactive menu experience
+* Customer reviews section
+* Multi-language support
+* Performance optimization
 
 ---
 
