@@ -1,7 +1,10 @@
 # 🍷 Maison Moreau UX/UI Case Study
 
-Premium hospitality website concept focused on luxury branding, user experience, accessibility, and mobile-first design.
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Version](https://img.shields.io/badge/Version-v1.0-blue)
+![UX/UI](https://img.shields.io/badge/Focus-UX%2FUI-purple)
 
+Premium hospitality website concept focused on luxury branding, user experience, accessibility, and mobile-first design.
 ## 📸 Screenshot
 
 ![Maison Moreau Homepage](screenshot-homepage.png)
@@ -10,7 +13,7 @@ Premium hospitality website concept focused on luxury branding, user experience,
 
 ## 🚀 Live Demo
 
-https://premiumuxui.lovable.app
+[View Live Demo](https://premiumuxui.lovable.app)
 
 ---
 
@@ -79,8 +82,6 @@ The project focuses on:
 
 Created by Sahba Maraghehmiyanji, an Application Support Specialist and Master's student in Germany with interests in UX/UI design, web development, and digital product experiences.
 
-LinkedIn:
-https://www.linkedin.com/in/sahba-maragheh-miyanji/
+🔗 LinkedIn: https://www.linkedin.com/in/sahba-maragheh-miyanji/
 
-GitHub:
-https://github.com/Sahba-mnj
+🐙 GitHub: https://github.com/Sahba-mnj
