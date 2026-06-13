@@ -65,9 +65,19 @@ The project focuses on:
 
 ---
 
-## 👨‍💻 Author
+## Future Improvements
 
-Sahba Maraghehmiyanji
+- Online reservation functionality
+- Interactive menu experience
+- Customer reviews section
+- Multi-language support
+- Performance optimization
+
+---
+
+## 👨‍💻 About the Creator
+
+Created by Sahba Maraghehmiyanji, an Application Support Specialist and Master's student in Germany with interests in UX/UI design, web development, and digital product experiences.
 
 LinkedIn:
 https://www.linkedin.com/in/sahba-maragheh-miyanji/
