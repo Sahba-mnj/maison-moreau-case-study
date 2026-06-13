@@ -31,7 +31,6 @@ The project focuses on:
 
 ## 🛠 Tools Used
 
-* Lovable
 * HTML
 * CSS
 * JavaScript
@@ -39,6 +38,8 @@ The project focuses on:
 * UX/UI Design
 * Mobile-First Design
 * Accessibility Best Practices
+* Lovable
+
 
 ---
 
